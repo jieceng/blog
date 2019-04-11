@@ -5,3 +5,7 @@ a{
 a:hover{
 	text-decoration: none;
 }
+/* 主题颜色1.0.0樱花版本*/
+.mainColor{
+	color: #fcc7f6;
+}

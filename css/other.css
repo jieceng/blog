@@ -1,0 +1,72 @@
+/* 首页主体内容的样式 start*/
+
+.jc-body{
+	
+}
+/* 标题 */
+.jc-title{
+	font-size: 60px;
+	line-height: 2;
+}
+/* 首页主体左边的内容 */
+.jc-left-content{
+	border-radius: 2%;
+	background-color: #fff;
+	padding: 30px;
+	text-align: center;
+	margin-bottom: 30px;
+	color: #666;
+}
+.jc-left-content ul{
+	font-size: 12px;
+}
+.jc-left-content h3{
+	color: #333;
+}
+.jc-left-content-p{
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+/* 首页主体右边的信息展示区域 */
+.jc-show{
+	border-radius: 2%;
+	background-color: #fff;
+	padding: 30px 20px;
+	text-align: center;
+}
+.show-dec{
+	font-weight: 600;
+	margin-top: 5px;
+}
+.show-links{
+}
+.show-links a{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: #eee;
+	border-radius: 50%;
+	line-height: 40px;
+	color: #666;
+}
+.show-total{
+	margin-top: 15px;
+}
+.show-total p{
+	margin-bottom: 0px;
+	font-weight: 600;
+}
+.show-total li{
+	border-right: 1px solid #ccc;
+}
+.show-total li:last-child{
+	border-right: none;
+}
+.show-total li a{
+	color: #666;
+}
+.show-youlinks{
+	border-top: 1px solid #ccc;
+	padding-top: 8px;
+}
+/* 首页主体内容的样式 end*/
