@@ -9,3 +9,7 @@ a:hover{
 .mainColor{
 	color: #fcc7f6;
 }
+/* 字体图标 */
+i.fa{
+	margin-right: 5px;
+}

@@ -49,6 +49,9 @@
 	line-height: 40px;
 	color: #666;
 }
+.show-links a>i{
+	margin-right: 0px;
+}
 .show-total{
 	margin-top: 15px;
 }
